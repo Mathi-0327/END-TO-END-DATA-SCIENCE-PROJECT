@@ -13,10 +13,17 @@
 *MENTOR*: NEELA SANTOSH
 
 ## 📌 Project Description
-This is an End-to-End Data Science project that predicts house prices using the **California Housing Dataset**.
-The project includes data loading, preprocessing, model training, evaluation, model saving, and deployment using **FastAPI**.
+This project is an End-to-End Data Science application designed to predict house prices using the California Housing dataset. The main objective of this project is to demonstrate the complete machine learning workflow, starting from data collection and preprocessing to model training, evaluation, and deployment as a web API.
 
-The trained Machine Learning model is deployed as a REST API where users can provide housing input features and receive predicted house price output.
+The dataset contains multiple housing-related features such as median income, house age, average number of rooms, average bedrooms, population, average occupancy, latitude, and longitude. These features are used as input variables to predict the target value, which represents the house price.
+
+In this project, the dataset is loaded and analyzed to understand feature relationships and patterns. Basic exploratory data analysis (EDA) is performed, including correlation analysis and visualization, to identify important features influencing house prices. The data is then split into training and testing sets to build a machine learning model. A Linear Regression algorithm is used to train the model due to its simplicity and effectiveness for regression-based prediction problems.
+
+After training, the model is evaluated using metrics such as Mean Squared Error (MSE) and R2 Score to measure prediction accuracy and performance. The trained model is then saved using Joblib, enabling reuse without retraining.
+
+To make the model accessible for real-world usage, it is deployed using FastAPI. A REST API is created with endpoints that allow users to send feature values as input and receive predicted house prices as output. The API can be tested using Swagger UI provided by FastAPI at /docs.
+
+Overall, this project successfully demonstrates an end-to-end machine learning pipeline and model deployment, making it a practical example of how data science solutions can be developed and integrated into real applications.
 
 ---
 
