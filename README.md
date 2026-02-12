@@ -48,18 +48,18 @@ After running the FastAPI server, open this link in browser:
 5. You will get the predicted output in the response section
 
 ---
+## output
+<img width="1852" height="908" alt="Image" src="https://github.com/user-attachments/assets/998977ef-2f44-4472-b0ff-363029c1b1f6" />
+<img width="1846" height="811" alt="Image" src="https://github.com/user-attachments/assets/d08d7529-9096-45df-b575-921cc0f87a89" />
+<img width="1864" height="801" alt="Image" src="https://github.com/user-attachments/assets/8c51e7f9-fbc4-4f94-84ad-f94820b5447b" />
+<img width="1801" height="935" alt="Image" src="https://github.com/user-attachments/assets/a9c3a2a7-abea-4916-a51e-026ccb0a4248" />
 
-## 📌 Sample Input (Request Body)
 
-```json
-{
-  "MedInc": 8.3,
-  "HouseAge": 25,
-  "AveRooms": 6,
-  "AveBedrms": 1,
-  "Population": 1500,
-  "AveOccup": 3,
-  "Latitude": 34.2,
-  "Longitude": -118.
+
+
+
+
+
+
 
 
