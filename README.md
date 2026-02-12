@@ -1,5 +1,7 @@
 # End-to-End Data Science Project - House Price Prediction
 
+
+
 ## 📌 Project Description
 This is an End-to-End Data Science project that predicts house prices using the **California Housing Dataset**.
 The project includes data loading, preprocessing, model training, evaluation, model saving, and deployment using **FastAPI**.
