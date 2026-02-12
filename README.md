@@ -1,6 +1,16 @@
 # End-to-End Data Science Project - House Price Prediction
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
+*NAME*: MATHIYAZHAGAN M 
+
+*INTERN ID*: CTIS4317
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 ## 📌 Project Description
 This is an End-to-End Data Science project that predicts house prices using the **California Housing Dataset**.
