@@ -9,7 +9,7 @@ The trained Machine Learning model is deployed as a REST API where users can pro
 ---
 
 ## 📊 Output Visualizations
-
+<img width="1317" height="747" alt="Image" src="https://github.com/user-attachments/assets/b7668814-de19-4a2f-b61e-f02b39874a91" />
 
 
 ### Correlation Heatmap
